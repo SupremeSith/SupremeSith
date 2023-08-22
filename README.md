@@ -10,9 +10,9 @@
 
 -Um dos pilares fundamentais da minha busca pela evolução é a academia. Para mim, esse espaço não é apenas um local para exercícios físicos, mas um verdadeiro templo da transformação pessoal. Através do desafio físico, encontro oportunidades de superação e crescimento, tanto mental quanto emocional
 
+![kevin-kevin-levrone](https://github.com/SupremeSith/SupremeSith/assets/134610588/3d25f380-061e-444b-aca2-1aff2b7bc14f)
 
 
-![kevin levrone](https://github.com/SupremeSith/SupremeSith/assets/134610588/ff308f17-0edc-4666-81cb-fb385c32ba19)
 
 <!---
 
