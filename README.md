@@ -1,8 +1,6 @@
 
 ![kevin levrone](https://github.com/SupremeSith/SupremeSith/assets/134610588/ff308f17-0edc-4666-81cb-fb385c32ba19)
 
-![download](https://github.com/SupremeSith/SupremeSith/assets/134610588/d8b297b6-6d66-4ad7-a22b-ff38e5c95152)
-
 <!---
 git init 
 git add README.md 
