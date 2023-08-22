@@ -6,12 +6,12 @@
 
 -Minha vida é pautada por uma meta inabalável: evoluir, crescer e transcender. Acredito que somos as somas das nossas experiências e ações, e é nessa linha de pensamento que caminho. Assim como o universo em expansão, vejo-me constantemente em busca de novos horizontes, conhecimentos e desafios que me levem além das minhas fronteiras atuais.
 
-*𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐚: 𝐎 𝐓𝐞𝐦𝐩𝐥𝐨 𝐝𝐚 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚ç𝐚𝐨*
+*𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐚: 𝐎 𝐓𝐞𝐦𝐩𝐥𝐨 𝐝𝐚 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚çã𝐨*
 
 -Um dos pilares fundamentais da minha busca pela evolução é a academia. Para mim, esse espaço não é apenas um local para exercícios físicos, mas um verdadeiro templo da transformação pessoal. Através do desafio físico, encontro oportunidades de superação e crescimento, tanto mental quanto emocional
 
 ![kevin-kevin-levrone](https://github.com/SupremeSith/SupremeSith/assets/134610588/3d25f380-061e-444b-aca2-1aff2b7bc14f)
-
+![kevin-levrone](https://github.com/SupremeSith/SupremeSith/assets/134610588/ec76bfd4-fcc4-45b5-b31d-ba3ee14210df)
 
 
 <!---
