@@ -1,4 +1,3 @@
-# 💫 Visão Geral:
 Minha vida é pautada por uma meta inabalável: <br>Evoluir, crescer e transcender. Acredito que somos as somas das nossas experiências e ações, e é nessa linha de pensamento que caminho. Assim como o universo em expansão, vejo-me constantemente em busca de novos horizontes, conhecimentos e desafios que me levem além das minhas fronteiras atuais.
 
 
