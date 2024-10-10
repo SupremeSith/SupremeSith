@@ -36,10 +36,9 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-### About Me:
-Sou apaixonado por tecnologia, programação e criação de soluções que facilitam a vida. Estou sempre ansioso para aprender novas habilidades e explorar diferentes áreas no desenvolvimento de software. Sinta-se à vontade para se conectar comigo!
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYcNz50X8FQ73S/giphy.gif" alt="Giphy" width="300"/>
+  <img src="[https://media.giphy.com/media/3o6ZsYcNz50X8FQ73S/giphy.gif](https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif)" alt="Giphy" width="300"/>
   <h3 style="color: #4169E1;">Vamos codar juntos! 🚀</h3>
 </div>
