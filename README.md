@@ -39,6 +39,6 @@
 
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o6ZsYcNz50X8FQ73S/giphy.gif](https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif)" alt="Giphy" width="300"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Giphy" width="300"/>
   <h3 style="color: #4169E1;">Vamos codar juntos! 🚀</h3>
 </div>
