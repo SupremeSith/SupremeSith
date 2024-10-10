@@ -38,6 +38,3 @@
   <img src="https://img.shields.io/badge/Expo_Go-000000?style=for-the-badge&logo=expo&logoColor=white">
 </div>
 
-<div align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Giphy" width="300"/>
-</div>
