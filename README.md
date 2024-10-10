@@ -39,5 +39,5 @@
 
 
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Giphy" width="300"/>
+  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Giphy" width="300"/>
 </div>
