@@ -34,13 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Profiles:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-augusto-490685236/) <!-- Update this link if you have a LinkedIn -->
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/26dd5ccf-5268-4fae-91f6-f6a897d0f671) <!-- Update this link if you have a Google Cloud profile -->
-[![Credly](https://img.shields.io/badge/Credly-Perfil_Ativo-blue?logo=credly&style=for-the-badge)](https://www.credly.com/users/guilherme-augusto.1c87f496) <!-- Update this link if you have a Credly profile -->
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SupremeSith}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+[![LinkedIn](www.linkedin.com/in/joão-portocarrero-26a2aa28a) <!-- Update this link if you have a LinkedIn -->
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/21037d5e-86cb-47bb-9118-1b9ab88b2f64) <!-- Update this link if you have a Google Cloud profile -->
+[![Credly](https://img.shields.io/badge/Credly-Perfil_Ativo-blue?logo=credly&style=for-the-badge)](https://www.credly.com/users/joao-pedro-portocarrero-coquelletti) <!-- Update this link if you have a Credly profile -->
