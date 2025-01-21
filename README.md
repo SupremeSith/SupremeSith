@@ -5,8 +5,11 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SupremeSith&show_icons=true&count_private=true&hide_border=true&title_color=aa0000&icon_color=aa0000&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro GitHub stats" /> 
 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupremeSith&layout=compact&hide_border=true&title_color=aa0000&text_color=aa0000&bg_color=0d1117" />
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SupremeSith&bg_color=000000&color=aa0000&line=aa0000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ### Main Skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=aa0000)&nbsp;
