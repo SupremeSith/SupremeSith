@@ -40,10 +40,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/21037d5e-86cb-47bb-9118-1b9ab88b2f64) <!-- Update this link if you have a Google Cloud profile -->
 [![Credly](https://img.shields.io/badge/Credly-Perfil_Ativo-blue?logo=credly&style=for-the-badge)](https://www.credly.com/users/joao-pedro-portocarrero-coquelletti) <!-- Update this link if you have a Credly profile -->
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SupremeSith}/count.svg" /></p> 
-<br></div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aa0000&height=120&section=footer"/>
 
