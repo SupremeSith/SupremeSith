@@ -6,15 +6,16 @@
 
 </br>
 
-<h2 align='center'><i><a href="https://github.com/SupremeSith/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/SupremeSith/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupremeSith&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/SupremeSith/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupremeSith&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
+<table width="100" align='center'>
+<tr>
+ <td align='center'>
+    <b>Currently learning</b>
+ </td>
+ <td align='center' width="60">
+     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+ </td>
+</tr>
+</table>
 
 </br>
 
