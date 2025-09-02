@@ -4,18 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SupremeSith&bg_color=000000&color=057efe&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</br>
-
-<table width="100" align='center'>
-<tr>
- <td align='center'>
-    <b>Currently learning</b>
- </td>
- <td align='center' width="60">
-     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
- </td>
-</tr>
-</table>
 
 </br>
 
